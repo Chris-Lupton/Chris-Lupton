@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chris-Lupton
+- 👀 I’m interested in Python, SQL and data science
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m looking to collaborate
